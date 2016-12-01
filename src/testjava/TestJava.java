@@ -1,5 +1,5 @@
 package testjava;
-
+//新功能分之
 public class TestJava {
 
 	public static final int v =9;
